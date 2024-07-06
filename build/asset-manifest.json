@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2451be45.css",
+    "main.js": "/static/js/main.cfa8d179.js",
+    "static/js/453.e0301edd.chunk.js": "/static/js/453.e0301edd.chunk.js",
+    "static/media/work3.png": "/static/media/work3.f853f8bd9f827f98ab67.png",
+    "static/media/work6.png": "/static/media/work6.8182946278a1a265ddcc.png",
+    "static/media/work7.png": "/static/media/work7.20feee58af366a70b0da.png",
+    "static/media/work5.png": "/static/media/work5.9020def723dc454170c3.png",
+    "static/media/work2.png": "/static/media/work2.0cd45d80ad88832b5aba.png",
+    "static/media/work1.png": "/static/media/work1.e20939e498d8d63920b7.png",
+    "static/media/profile-pic.jpg": "/static/media/profile-pic.7c267185c37bbc487aa1.jpg",
+    "static/media/Vinoth Resume.pdf": "/static/media/Vinoth Resume.329dd51c1e0f55888efc.pdf",
+    "static/media/import.jpg": "/static/media/import.f19d272e25803249f79b.jpg",
+    "static/media/work4.png": "/static/media/work4.11037bf050814cc0d3f2.png",
+    "static/media/Work8.png": "/static/media/Work8.6436f8a56d564ae166b8.png",
+    "index.html": "/index.html",
+    "main.2451be45.css.map": "/static/css/main.2451be45.css.map",
+    "main.cfa8d179.js.map": "/static/js/main.cfa8d179.js.map",
+    "453.e0301edd.chunk.js.map": "/static/js/453.e0301edd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2451be45.css",
+    "static/js/main.cfa8d179.js"
+  ]
+}
